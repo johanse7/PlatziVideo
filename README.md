@@ -1,2 +1,1 @@
-# PlatziVideo
-Platzi video studio
+# escuela-js
